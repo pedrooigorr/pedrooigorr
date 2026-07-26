@@ -2,7 +2,7 @@
 
 ## 🚀 Estudante de Desenvolvimento Web
 
-Olá! Me chamo Pedro Igor, tenho 17 anos e sou natural do Ceará.  
+Olá! Me chamo Pedro Igor, tenho 18 anos e sou natural do Ceará.  
 Atualmente estou concluindo o Ensino Médio integrado ao curso técnico de Informática na EEEP Dep. José Maria Melo.
 
 Sou apaixonado por tecnologia, desenvolvimento e aprendizado constante.  
